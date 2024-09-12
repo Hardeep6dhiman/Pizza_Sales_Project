@@ -1,3 +1,4 @@
+![18514975](https://github.com/user-attachments/assets/20249a70-219d-4b5e-9418-481abc28160a)
 # Pizza-Sales-Project-SQL-PowerBI
 
 ## Project Overview
